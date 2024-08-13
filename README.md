@@ -1,4 +1,7 @@
+# Authors
 All code in this repository was authored by Vince Wang.
+
+<br>
 
 # Disclaimer
 This repository is intended to demonstrate Vince's coding skills for job-seeking and general knowledge-sharing purposes, with parameters and results provided purely for illustrative purposes.
@@ -9,6 +12,7 @@ All investment involves risk and potential loss of principal.
 
 Past performance is not indicative of future results.
 
+<br>
 
 # Backtest Framework for Multiple Investment Strategies
 
