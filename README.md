@@ -1,3 +1,15 @@
+All code in this repository was authored by Vince Wang.
+
+# Disclaimer
+This repository is intended to demonstrate Vince's coding skills for job-seeking and general knowledge-sharing purposes, with parameters and results provided purely for illustrative purposes.
+
+No information contained in this repository should be construed as investment or trading advice.
+
+All investment involves risk and potential loss of principal.
+
+Past performance is not indicative of future results.
+
+
 # Backtest Framework for Multiple Investment Strategies
 
 One of the objectives of this project is to provide a general framework for backtesting various investment strategies. Any functions or methods related to objective market conditions, such as data queries, price updates, and benchmark returns, are contained within the **Backtest** class. Anything related to subjective strategies, such as when to buy or sell assets, how to select options, and how to determine the range within which to search for a zero-cost collar, is located in the **Strategy** class or its child classes. All records or data related to the investment portfolio during the backtesting process, such as cash, positions, margin, and transaction history, are maintained in the **Portfolio** class.
