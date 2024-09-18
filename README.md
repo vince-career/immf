@@ -4,13 +4,15 @@ All code in this repository was authored by Vince Wang.
 <br>
 
 # Disclaimer
-This repository is intended to demonstrate Vince's coding skills for job-seeking and general knowledge-sharing purposes, with parameters and results provided purely for illustrative purposes.
+- This repository is intended to demonstrate Vince's coding skills for job-seeking and general knowledge-sharing purposes, with parameters and results provided purely for illustrative purposes.
 
-No information contained in this repository should be construed as investment or trading advice.
+- The version currently displayed on this GitHub page is just a very early version and is not the one we are actually using.
 
-All investment involves risk and potential loss of principal.
+- No information contained in this repository should be construed as investment or trading advice.
 
-Past performance is not indicative of future results.
+- All investment involves risk and potential loss of principal.
+
+- Past performance is not indicative of future results.
 
 <br>
 
